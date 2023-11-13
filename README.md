@@ -4,10 +4,10 @@
 
   
   
-<h2>💻 Built with</h2>
+<h2>💻 Realizado con: JAVA </h2>
 
-Technologies used in the project:
+Tecnologías del proyecto:
 
-*   java
+*   Java
 *   NetBeans
 *   MySQL
